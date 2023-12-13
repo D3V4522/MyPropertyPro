@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "9711487700",
+    "project_id": "propertypro-c1f7a",
+    "storage_bucket": "propertypro-c1f7a.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:9711487700:android:438a6664570f0b3ed54941",
+        "android_client_info": {
+          "package_name": "com.example.propertypro"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBV-Qihg3VPnYAeq2843MU2Ay0eOo764JM"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
